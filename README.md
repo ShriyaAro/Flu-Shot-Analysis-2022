@@ -1,5 +1,5 @@
 #Flu Shot Analysis Dashboard 2022: Healthcare Overview
-![image](https://github.com/ShriyaAro/Flu-Shot-Analysis-2022/assets/138172706/dfa1550a-aea8-45f0-bc3e-44b20867a374)
+
 
 Purpose
 This dashboard serves as a dynamic tool for visualizing simulated flu vaccination data for the year 2022. The aim is to assist stakeholders in understanding vaccination trends and identifying potential areas of improvement without compromising patient privacy.
